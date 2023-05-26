@@ -1,0 +1,101 @@
+#heading{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    color: white;
+    border: 10px groove orange;
+    border-radius: 50px;
+    background-image: url("https://i.postimg.cc/JzQvpH6b/road-5904909-1280.jpg");
+    min-height: 100vh;
+    background-repeat: none;
+    background-size: cover;
+}
+
+
+
+h1{
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+
+
+h2{
+    color: white;
+}
+
+body{
+    background-color: #171717;
+}
+
+p{
+    color: white;
+    font-family: Arial;
+}
+
+
+
+.delete1{
+    background-image: url("https://i.postimg.cc/V6DRSBVG/africa-1238493-1280.jpg");
+    background-repeat: none;
+    background-size: cover;
+    min-height: 100vh;
+    border: 10px groove orange;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+
+
+ul{
+    list-style-type: square;
+}
+
+
+
+.com{
+    color: white;
+    text-align-last: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    background-image: url("https://i.postimg.cc/jj2JW3Mw/download.jpg");
+    background-repeat: none;
+    background-size: cover;
+    min-height: 100vh;
+    border: 10px groove orange;
+    border-radius: 50px;
+}
+
+
+
+img{
+    max-height: 450px;
+    width: 100%;
+    border: 10px groove orange;
+    border-radius: 50px;
+    margin: 50px;
+}
+
+
+
+
+#main h3{
+    color: yellow;
+    text-align: center;
+    text-transform: uppercase;
+    border: 10px groove orange;
+    border-radius: 50px;
+    background-color: #171717;
+    border-width: 100%;
+}
+
+
+#footer h3{
+    text-align: center;
+    color: White;
+    border: 10px groove orange;
+    border-radius: 50px;
+    background-color: #171717;
+}
