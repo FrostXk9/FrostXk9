@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @FrostXk9
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hey, I'm Brandon Roulstone!
 
-<!---
-FrostXk9/FrostXk9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Solution-driven dev with an entrepreneurial edge
+I craft enterprise software—scaling from sleek startups to powerhouse businesses—all with a focus on growth, performance, and impact.
+🛠 My Tech Playground
+
+    🔥 Languages & Frameworks: Python, Next.js, React, Vue, TypeScript, Node.js, Deno, (Dare I say Rust 👀)
+    🚀 Exploring: Rust (because who doesn’t love a challenge?)
+
+💡 Beyond the Code
+
+By day, I engineer solutions. By night (or whenever the caffeine kicks in), I'm balancing life between:
+🏋️‍♂️ Hitting the gym | 🏃‍♂️ Running & hiking trails | 💡 Building businesses (Solopreneur or whatever you percieve it as 😂) | 📖 Enjoy reading ( Philosophy, Psychology, Financial, OR DOCUMENTATION 😒 etc. )
+
+Let's connect, build, and push boundaries! 🚀
