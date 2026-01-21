@@ -12,7 +12,7 @@ https://wrampt.vercel.app (wrampt.com coming soon) - A vibe coding platform (AI 
 ---
 
 
-## ✏️ My building philosophy
+## ✏️ My philosophy
 Question your doubts and your beliefs. What’s been done before can usually be done differently. It’s a game of convincing the system why.
 
 ## One pull request at a time.
