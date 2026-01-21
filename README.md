@@ -8,7 +8,6 @@ I am proficient in a few programming languages but stick to typescript, python a
 ## 🔧 Currently building
 https://www.flow-grid.xyz/ - An Analytics platform (big data, SAAS, AI) that tracks website, webapps, with a typesafe SDK and APIs.
 https://wrampt.vercel.app (wrampt.com coming soon) - A vibe coding platform (AI Agents, RAG, SAAS, AI Research) that allows people to bring any Idea to software. <br>
-Next big idea loading ⏳
 
 ---
 
